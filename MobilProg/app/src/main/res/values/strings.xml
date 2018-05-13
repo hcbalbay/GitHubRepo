@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MobilProg</string>
+    <string name="action_settings">Settings</string>
+    <string name="textdeneme">deneme</string>
+    <string name="add_reminder">Yapılacak Ekle</string>
+    <string name="date">Tarih</string>
+    <string name="time">Saat</string>
+    <string name="olustur">Oluştur</string>
+    <string name="yapıalacak">yapılacak</string>
+    <string name="tarih">tarih</string>
+    <string name="btnTarih">Tarih Seç</string>
+    <string name="saat">Saat</string>
+    <string name="btnSaat">Saat Seç</string>
+    <string name="btnOlustur">Oluştur</string>
+    <string name="oncelik1">1</string>
+    <string name="oncelik2">2</string>
+    <string name="oncelik3">3</string>
+</resources>
