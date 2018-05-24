@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ileri">120dp</dimen>
+    <dimen name="reset">120dp</dimen>
+    <dimen name="ButtonHizala35">35dp</dimen>
+    <dimen name="ButtonHizala25">25dp</dimen>
+</resources>

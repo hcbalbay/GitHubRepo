@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bitirme Tezi</string>
+    <string name="basla">Başla</string>
+    <string name="cikis">Çıkış</string>
+    <string name="textView">Düzce Üniversitesi Parkinson Tespit Uygulaması</string>
+    <string name="ileri">İleri</string>
+    <string name="reset">Sıfırla</string>
+    <string name="parkinson">TODO</string>
+    <string name="textview">TextView</string>
+
+
+</resources>

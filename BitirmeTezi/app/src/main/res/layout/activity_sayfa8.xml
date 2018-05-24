@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient2"
+    tools:context=".sayfa8">
+
+    <com.example.halukcan.bitirmetezi.Canvas
+        android:background="@drawable/ucgen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/ucgen"/>
+
+    <Button
+        android:id="@+id/reset"
+        android:layout_width="@dimen/reset"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="@dimen/ButtonHizala25"
+        android:layout_marginStart="@dimen/ButtonHizala35"
+        android:onClick="clearCanvas"
+        android:text="@string/reset" />
+
+    <Button
+        android:id="@+id/ileri"
+        android:layout_width="@dimen/ileri"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="@dimen/ButtonHizala25"
+        android:layout_marginEnd="@dimen/ButtonHizala35"
+        android:text="@string/ileri" />
+</RelativeLayout>
